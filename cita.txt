@@ -1,0 +1,4 @@
+Doctor: pablo
+Paciente: juan
+Fecha de cita: 28 de octubre de 1999
+---------------------------
